@@ -1,0 +1,11 @@
+fastapi
+pydantic
+requests
+sqlalchemy[asyncio]
+asyncpg
+pydantic-settings
+alembic
+crypto
+passlib
+bcrypt
+python-jose

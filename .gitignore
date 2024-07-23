@@ -1,0 +1,25 @@
+#virtual environment
+/.venv
+/venv
+
+#audit logs
+/logs
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# IDE / Editor specific
+.vscode/
+
+# Database files
+db.sqlite3
+
+# Local development settings
+.env
+
+# Static files
+static/
